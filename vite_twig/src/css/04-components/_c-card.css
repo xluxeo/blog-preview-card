@@ -1,0 +1,15 @@
+.c-card {
+    border-radius: 8px;
+    background-color: var(--card-background-color);
+}
+.c-card__start {
+    inline-size: 100%;
+    padding: 16px;
+}
+.c-card__image {
+    width: 100%;
+}
+
+.c-card__text {
+    font-size: var(--font-size-text);
+}
