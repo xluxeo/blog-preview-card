@@ -12,8 +12,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- 
 
 ## Overview
 
@@ -31,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:  (https://github.com/xluxeo/blog-preview-card)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://remarkable-chebakia-d3ef25.netlify.app/)
 
 ## My process
 
