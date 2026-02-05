@@ -1,0 +1,20 @@
+{
+  "navigation": [
+    {
+      "title": "Link 1",
+      "url": "htpps://www.google.de",
+      "current": true
+    },
+    {
+      "title": "Link 2",
+      "url": "htpps://www.google.de",
+      "current": false
+    },
+    {
+      "title": "Link 3",
+      "url": "htpps://www.google.de",
+      "current": false,
+      "dropdown": true
+    }
+  ]
+}
