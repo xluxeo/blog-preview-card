@@ -1,3 +1,6 @@
 :root {
-    --font-size-text: 16px
+    --font-family: 'Figtree', sans-serif;
+    --font-size-text: 1rem;
+    --font-weight-regular: 500;
+    --font-weight-bold: 800;
 }
